@@ -1,0 +1,35 @@
+git add nombre.md
+git commit-m ""
+git push.origin
+
+# Titulo
+## Titlulo 2
+### Titlulo 3
+#### Titutlo 4
+##### Titlulo 5
+###### Titulo 6
+####### Titulo 7
+
+El texto normal es escribir.
+
+1. Enumeración
+2. Enumeración
+	1.Subenumeración
+	2.asdasd
+-Enumeración
+-enumeración
+	-enumeración
+	-adsfadfa
+		-sasdfad
+>Cita
+
+![Pies](./img/1.png)
+
+[gmail](https://gmail.com/)
+**negrita**
+*cursiva*
+'codigo en una linea' alkshdaslkj
+
+```cpp
+int a = 2;
+```
